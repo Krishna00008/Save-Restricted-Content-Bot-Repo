@@ -1,4 +1,4 @@
-#Join t.me/dev_gagan
+#Join t.me/vibrantsamundra 
 
 import logging
 import time, os, asyncio
@@ -151,14 +151,14 @@ async def run_batch(userbot, client, sender, countdown, link):
             logger.info(e)
             await client.send_message(sender, f"An error occurred during cloning, batch will continue.\n\n**Error:** {str(e)}")
             if countdown.text != count_down:
-                await countdown.edit(count_down, buttons=[[Button.url("Join Channel", url="https://t.me/dev_gagan")]])
+                await countdown.edit(count_down, buttons=[[Button.url("Join Channel", url="https://t.me/vibrantsamundra")]])
         n = i + 1
         if n == len(ids):
             return -2
 
 C = "/cancel"
 START_PIC = "https://graph.org/file/da97ceca70e55983b4891.png"
-TEXT = "👋 Hi, This is 'Paid Restricted Content Saver' bot Made with ❤️ by __**Team SPY**__."
+TEXT = "👋 Hi, This is 'Paid Restricted Content Saver' bot Made with ❤️ by __**OM**__."
 
 @gagan.on(events.NewMessage(pattern=f"^{C}"))
 async def start_command(event):
