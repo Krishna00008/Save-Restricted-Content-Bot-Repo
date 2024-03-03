@@ -1,10 +1,7 @@
-<h1 align="center">
-  <b>Save restricted Content Bot by <a href="https://devgagan.in"> devgagan.in </a>
-</h1> 
 
 Contact: [Telegram](https://t.me/vibrantsamundra)
 
-## A stable telegram bot to get restricted messages with custom thumbnail support , made by [TEAM SPY](https://t.me/vibrantsamundra )This bot can run in channels directly (in this case custom thumbnail not supported)
+## A stable telegram bot to get restricted messages with custom thumbnail support , made by (https://t.me/vibrantsamundra )This bot can run in channels directly (in this case custom thumbnail not supported)
 
 - works for both public and private chats
 - Custom thumbnail support for Pvt medias
